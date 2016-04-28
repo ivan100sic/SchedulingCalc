@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstdio>
 #include <vector>
 #include <algorithm>
 using namespace std;
@@ -87,13 +88,3 @@ int main(){
     forkjoin();
     return 0;
 }
-
-/*
-4 5
-
-1 4
-4 3
-3 2
-1 3
-4 2
-*/
